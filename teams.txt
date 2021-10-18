@@ -1,0 +1,24 @@
+1	Brock Badgers
+2	Brock Generals
+3	Fanshawe Black
+4	Fanshawe Red
+5	McMaster Giga
+6	McMaster Peta
+7	McMaster Zetta
+8	Ryerson
+9	UofT Deep Blue
+10	UofT Midnight Blue
+11	UofT Royal Blue
+12	UTSC-A
+13	UTSC-B
+14	Waterloo Black
+15	Waterloo Gold
+16	Waterloo Red
+17	Waterloo White
+18	Windsor Black
+19	Windsor Blue
+20	Windsor Green
+21	Windsor White
+22	Windsor Yellow
+23	york-lion1
+24	york-lion2
